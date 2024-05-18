@@ -1,9 +1,9 @@
 ### Hi there 👋
-# Abdinasir Mohamed
+# Abdinasir Mohamed 
 
 ## Welcome to My GitHub Profile!
 
-👋 Hi there! I'm Abdinasir Mohamed, i am a Devops engineer & Embedded Systems/software developer
+👋 Hi there! I'm a Devops engineer & Embedded Systems/software developer
 
 Im highly motivated and collaborative individual eager to delve into the exciting realms of IoT embedded systems, embedded software, and robotics. 
 
