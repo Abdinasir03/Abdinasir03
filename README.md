@@ -8,7 +8,7 @@
 Im highly motivated and collaborative individual eager to delve into the exciting realms of IoT embedded systems, embedded software, and robotics. 
 
 My journey has equipped me with a diverse skill set in various programming languages and frameworks, allowing me to adapt to new challenges with ease.
-
+![Profile Banner](https://github.com/Abdinasir03/Abdinasir03/assets/115896606/banner.png)
 ### About Me
 
 I am passionate about exploring how technology can be harnessed to create innovative solutions. With a strong foundation in computer science, I have developed a keen interest in:
