@@ -26,13 +26,24 @@ I am always excited to learn new things and take on challenging projects. I beli
 Here are some of the programming languages and technologies I am proficient in:
 
 - **Java**
-- **Python**
-- **C++**
-- **C#**
-- **TypeScript**
-- **HTML & CSS**
-- **JavaScript**
+- <img width="226" alt="image" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/d091104f-e7d9-4df5-837c-5d2b2b1aa980">
 
+- **Python**
+- <img width="226" alt="image" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/39026a0d-0636-4ed0-b381-1d2d420a262d">
+- **C++**
+- <img width="226" alt="image" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/08bd2ad0-3c20-40d6-8ffb-f8a5dce0a41d">
+
+- **C#**
+- <img width="226" alt="image" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/5c464694-9d72-4033-9c24-61caf246e32d">
+
+- **TypeScript**
+- <img width="226" alt="image" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/f30a694b-e35e-40c8-a62b-c1495786fa4b">
+
+- **HTML & CSS**
+- <img width="226" alt="image" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/ff281b74-d7de-497c-88aa-af3225cca97c">
+
+- **JavaScript**
+- <img width="226" alt="image" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/84505f77-635c-45a1-8b51-c65496ba0bb1">
 
 
 ### Certifications
