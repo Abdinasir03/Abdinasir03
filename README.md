@@ -59,20 +59,6 @@ I have earned several certifications that validate my skills and knowledge:
 - **Gymnasium - UX Fundamentals**
 - **Microsoft 365: Implement Security and Threat Management**
 
-### Contact Me
-
-Feel free to reach out to me for any collaboration or just to say hi:
-
-- **Email:** [Abdinasirm2003@gmail.com](mailto:Abdinasirm2003@gmail.com)
-- **LinkedIn:** [AbdinasirMohamed](https://www.linkedin.com/in/abdinasir-mohamed-357537254)
-- **GitHub:** [Abdinasir03](https://github.com/Abdinasir03)
-
-### Download My CV
-
-You can download my CV to learn more about my professional background and experience:
-
-[Download CV](Abdinasir-Mohamed-FlowCV-Resume-20240512%20(1).pdf)
-
 Thank you for visiting my GitHub profile! I look forward to connecting with you.
 <!--
 **Abdinasir03/Abdinasir03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
