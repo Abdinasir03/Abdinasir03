@@ -55,7 +55,7 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you.
 ---
 
 **Let's Connect:**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdinasir-mohamed-357537254/)
 - 🌐 [Website](https://www.yourwebsite.com)
 - 🐦 [Twitter](https://twitter.com/yourprofile)
 
