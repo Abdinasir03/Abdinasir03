@@ -2,7 +2,13 @@
 
 👋 Hi there! I'm a DevOps engineer & Embedded Systems/Software developer.
 
-I'm a highly motivated and collaborative individual eager to delve into the exciting realms of IoT embedded systems, embedded software, DevOps and robotics. My journey has equipped me with a diverse skill set in various programming languages and frameworks, allowing me to adapt to new challenges with ease.
+I'm a highly motivated and collaborative individual eager to delve into the exciting realms of IoT embedded systems, embedded software, DevOps, and robotics. My journey has equipped me with a diverse skill set in various programming languages and frameworks, allowing me to adapt to new challenges with ease.
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Abdinasir03&theme=dark&show" alt="GitHub Streak" />
+  </a>
+</div>
 
 ### About Me :question:
 
@@ -21,7 +27,7 @@ I'm always excited to learn new things and take on challenging projects. I belie
 Here are some of the programming languages and technologies I am proficient in:
 
 <div style="display: flex; justify-content: space-around;">
-  
+
 <div style="display: flex; align-items: center; gap: 10px;">
     <img width="50" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/d091104f-e7d9-4df5-837c-5d2b2b1aa980" alt="Java">
     <img width="50" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/39026a0d-0636-4ed0-b381-1d2d420a262d" alt="Python">
@@ -31,6 +37,8 @@ Here are some of the programming languages and technologies I am proficient in:
     <img width="50" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/ff281b74-d7de-497c-88aa-af3225cca97c" alt="HTML & CSS">
     <img width="50" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/84505f77-635c-45a1-8b51-c65496ba0bb1" alt="JavaScript">
 </div>
+</div>
+
 <div>
   
 **Currently Learning**
@@ -60,4 +68,7 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you.
 - 🐦 [Twitter](https://twitter.com/yourprofile)
 
 ---
-![Abdinasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdinasir03&theme=dark&show_icons=true)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdinasir03&theme=dark&show_icons=true" alt="Abdinasir's GitHub stats" />
+</div>
