@@ -1,10 +1,10 @@
-## Welcome to My GitHub Profile!
+## Abdinasir Mohamed 
 
 👋 Hi there! I'm a DevOps engineer & Embedded Systems/Software developer.
 
 I'm a highly motivated and collaborative individual eager to delve into the exciting realms of IoT embedded systems, embedded software, DevOps and robotics. My journey has equipped me with a diverse skill set in various programming languages and frameworks, allowing me to adapt to new challenges with ease.
 
-### About Me
+### About Me :question:
 
 I am passionate about exploring how technology can be harnessed to create innovative solutions. With a strong foundation in computer science, I have developed a keen interest in:
 
