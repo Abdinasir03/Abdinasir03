@@ -60,5 +60,4 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you.
 - 🐦 [Twitter](https://twitter.com/yourprofile)
 
 ---
-[![Abdinasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdinasir03)](https://github.com/Abdinasir03/github-readme-stats)
-![Abdinasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdinasir03&theme=midnight-purple_icons=true)
+![Abdinasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdinasir03&theme=dark&show_icons=true)
