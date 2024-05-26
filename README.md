@@ -4,12 +4,6 @@
 
 I'm a highly motivated and collaborative individual eager to delve into the exciting realms of IoT embedded systems, embedded software, DevOps, and robotics. My journey has equipped me with a diverse skill set in various programming languages and frameworks, allowing me to adapt to new challenges with ease.
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Abdinasir03&theme=dark&show" alt="GitHub Streak" />
-  </a>
-</div>
-
 ### About Me :question:
 
 I am passionate about exploring how technology can be harnessed to create innovative solutions. With a strong foundation in computer science, I have developed a keen interest in:
@@ -71,4 +65,10 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdinasir03&theme=dark&show_icons=true" alt="Abdinasir's GitHub stats" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Abdinasir03&theme=dark&show" alt="GitHub Streak" />
+  </a>
 </div>
