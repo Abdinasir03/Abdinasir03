@@ -22,6 +22,7 @@ Here are some of the programming languages and technologies I am proficient in:
 
 <div style="display: flex; justify-content: space-around;">
 
+<div align="center">
 <div style="display: flex; align-items: center; gap: 10px;">
     <img width="50" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/d091104f-e7d9-4df5-837c-5d2b2b1aa980" alt="Java">
     <img width="50" src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/39026a0d-0636-4ed0-b381-1d2d420a262d" alt="Python">
@@ -36,6 +37,7 @@ Here are some of the programming languages and technologies I am proficient in:
 <div>
   
 **Currently Learning**
+<div align="center">
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
