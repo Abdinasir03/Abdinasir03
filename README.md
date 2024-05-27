@@ -75,5 +75,5 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you.
   </a>
 </div>
 
-![Profile views](https://gpvc.arturio.dev/Abdinasir03)
+![Profile views](https://komarev.com/ghpvc/?username=Abdinasir03)
 
