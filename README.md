@@ -74,3 +74,6 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you.
     <img src="https://streak-stats.demolab.com/?user=Abdinasir03&theme=dark&show" alt="GitHub Streak" />
   </a>
 </div>
+
+![Profile views](https://gpvc.arturio.dev/Abdinasir03)
+
