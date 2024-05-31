@@ -1,6 +1,6 @@
 ## Abdinasir Mohamed 
 
-👋 Hi there! I'm a DevOps engineer & Embedded Systems/Software developer.
+👋 Hi there! I'm an aspiring DevOps engineer & Embedded Systems/Software developer currently studying Computer science @ Brunel University London
 
 I'm a highly motivated and collaborative individual eager to delve into the exciting realms of IoT embedded systems, embedded software, DevOps, and robotics. My journey has equipped me with a diverse skill set in various programming languages and frameworks, allowing me to adapt to new challenges with ease.
 
