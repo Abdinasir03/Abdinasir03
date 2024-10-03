@@ -81,3 +81,70 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Abdinasir03)
 
+
+
+every10ms - this function runs every 10ms
+
+This function evaluates whether the system should change state (only occassionally)
+
+The system stays in each state for a number of cycles, counted by the 'count'
+variable. Each cycle is 10ms long, so 100 cycles gives 100 x 10ms = 1 sec
+*----------------------------------------------------------------------------*/
+int state = REDOFF ;  // this variable holds the current state
+int count = OFFPERIOD ; // this counter variable to decremented to zero
+
+void every10ms() {
+  if (count > 0) count -- ; // decrement the counter
+
+  switch (state) {
+
+    // there is one case for each state
+    // each case has the same structure
+
+    case REDOFF:  // the state names are defined in the gpio.h file
+      if (count == 0) {    // now time to change state
+        setRedLED(ON) ;    // set the LEDs for the new state
+        state = REDON ;    // ... the new state
+        count = ONPERIOD ; // reset the counter
+      }
+      break ;
+
+    case REDON:
+      if (count == 0) {
+        setRedLED(OFF) ;     // set the LEDs for the new state
+        state = GREENOFF ;
+        count = OFFPERIOD ;
+      }
+      break ;
+
+    case GREENOFF:
+      if (count == 0) {
+        setGreenLED(ON) ;    // set the LEDs for the new state
+        state = GREENON ;
+        count = ONPERIOD ;
+      }
+      break ;
+
+    case GREENON:
+      if (count == 0) {
+        setGreenLED(OFF) ;   // set the LEDs for the new state
+        state = REDOFF ;
+        count = OFFPERIOD ;
+      }
+      break ;
+
+  }
+
+  Modify	the	program	so	that:
+1. The	7	possible	colours	flash	in	sequence	(with	no	gaps)
+2. The	three	‘single’	colours	(red,	green,	blue)	are	on	for	2	seconds	while	the	four	
+mixtures	(including	white)	are	on	for	1	sec.	The	whole	cycle	should	repeat	after	
+10sec	and	continue	for	ever.
+3. There	are 7	states	(instead	of	4	states	as	at	present)
+4. 
+
+
+
+
+  
+
