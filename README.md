@@ -83,67 +83,100 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you.
 
 
 
-every10ms - this function runs every 10ms
-
-This function evaluates whether the system should change state (only occassionally)
-
-The system stays in each state for a number of cycles, counted by the 'count'
-variable. Each cycle is 10ms long, so 100 cycles gives 100 x 10ms = 1 sec
-*----------------------------------------------------------------------------*/
-int state = REDOFF ;  // this variable holds the current state
-int count = OFFPERIOD ; // this counter variable to decremented to zero
+int state = REDOFF;  // this variable holds the current state
+int count = 200;     // initial counter value (for single colors)
+const int ONPERIOD_LONG = 200;  // 2 seconds for single colors
+const int ONPERIOD_SHORT = 100; // 1 second for mixtures
+const int OFFPERIOD = 0;        // No off period between transitions
 
 void every10ms() {
-  if (count > 0) count -- ; // decrement the counter
-
+  if (count > 0) count--;  // decrement the counter
+  
   switch (state) {
-
-    // there is one case for each state
-    // each case has the same structure
-
-    case REDOFF:  // the state names are defined in the gpio.h file
-      if (count == 0) {    // now time to change state
-        setRedLED(ON) ;    // set the LEDs for the new state
-        state = REDON ;    // ... the new state
-        count = ONPERIOD ; // reset the counter
+    // Single colors (2 seconds on)
+    case REDOFF:
+      if (count == 0) {
+        setRedLED(ON);    // turn on the red LED
+        state = REDON;
+        count = ONPERIOD_LONG; // 2 seconds on
       }
-      break ;
+      break;
 
     case REDON:
       if (count == 0) {
-        setRedLED(OFF) ;     // set the LEDs for the new state
-        state = GREENOFF ;
-        count = OFFPERIOD ;
+        setRedLED(OFF);   // turn off the red LED
+        setGreenLED(ON);  // turn on the green LED
+        state = GREENON;
+        count = ONPERIOD_LONG; // 2 seconds on
       }
-      break ;
-
-    case GREENOFF:
-      if (count == 0) {
-        setGreenLED(ON) ;    // set the LEDs for the new state
-        state = GREENON ;
-        count = ONPERIOD ;
-      }
-      break ;
+      break;
 
     case GREENON:
       if (count == 0) {
-        setGreenLED(OFF) ;   // set the LEDs for the new state
-        state = REDOFF ;
-        count = OFFPERIOD ;
+        setGreenLED(OFF); // turn off the green LED
+        setBlueLED(ON);   // turn on the blue LED
+        state = BLUEON;
+        count = ONPERIOD_LONG; // 2 seconds on
       }
-      break ;
+      break;
 
+    // Mixtures (1 second on)
+    case BLUEON:
+      if (count == 0) {
+        setBlueLED(OFF);  // turn off the blue LED
+        setRedLED(ON);    // turn on the red LED (for magenta)
+        setBlueLED(ON);   // turn on the blue LED (for magenta)
+        state = MAGENTAON;
+        count = ONPERIOD_SHORT; // 1 second on
+      }
+      break;
+
+    case MAGENTAON:
+      if (count == 0) {
+        setRedLED(OFF);   // turn off the red LED
+        setBlueLED(OFF);  // turn off the blue LED
+        setGreenLED(ON);  // turn on the green LED (for cyan)
+        setBlueLED(ON);   // turn on the blue LED (for cyan)
+        state = CYANON;
+        count = ONPERIOD_SHORT; // 1 second on
+      }
+      break;
+
+    case CYANON:
+      if (count == 0) {
+        setGreenLED(OFF); // turn off the green LED
+        setBlueLED(OFF);  // turn off the blue LED
+        setRedLED(ON);    // turn on the red LED (for yellow)
+        setGreenLED(ON);  // turn on the green LED (for yellow)
+        state = YELLOWON;
+        count = ONPERIOD_SHORT; // 1 second on
+      }
+      break;
+
+    case YELLOWON:
+      if (count == 0) {
+        setRedLED(OFF);   // turn off the red LED
+        setGreenLED(OFF); // turn off the green LED
+        setRedLED(ON);    // turn on all LEDs (for white)
+        setGreenLED(ON);
+        setBlueLED(ON);
+        state = WHITEON;
+        count = ONPERIOD_SHORT; // 1 second on
+      }
+      break;
+
+    case WHITEON:
+      if (count == 0) {
+        // Turn off all LEDs
+        setRedLED(OFF);
+        setGreenLED(OFF);
+        setBlueLED(OFF);
+        state = REDOFF;   // back to the first state
+        count = ONPERIOD_LONG; // 2 seconds on for red
+      }
+      break;
   }
-
-  Modify	the	program	so	that:
-1. The	7	possible	colours	flash	in	sequence	(with	no	gaps)
-2. The	three	‘single’	colours	(red,	green,	blue)	are	on	for	2	seconds	while	the	four	
-mixtures	(including	white)	are	on	for	1	sec.	The	whole	cycle	should	repeat	after	
-10sec	and	continue	for	ever.
-3. There	are 7	states	(instead	of	4	states	as	at	present)
-4. 
-
-
+}
 
 
   
