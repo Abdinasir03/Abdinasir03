@@ -3,7 +3,7 @@
   <img src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/48904a98-e796-467c-935b-ea9c847236c9" alt="coworking-male-programmer-writing-program-code">
 </div>
 
-👋 Hi there! I'm an aspiring SWE & Embedded Systems/Software developer 
+👋 Hi there! 
 
 I'm a highly motivated and collaborative individual eager to delve into the exciting realms of IoT embedded systems, embedded software, DevOps, and robotics. My journey has equipped me with a diverse skill set in various programming languages and frameworks, allowing me to adapt to new challenges with ease.
 
