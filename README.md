@@ -15,7 +15,6 @@ I am passionate about exploring how technology can be harnessed to create innova
 - 🌐 IoT Embedded Systems
 - 💻 Embedded Software Development
 - 🤖 Robotics
-- 🛠️ Software Engineering
 - 🚀 DevOps
 
 I'm always excited to learn new things and take on challenging projects. I believe in continuous learning and improvement, and I am dedicated to staying up-to-date with the latest trends and technologies in the field.
