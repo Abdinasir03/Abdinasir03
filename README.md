@@ -1,7 +1,5 @@
 ## Abdinasir Mohamed 
-<div align="center">
-  <img src="https://github.com/Abdinasir03/Abdinasir03/assets/115896606/48904a98-e796-467c-935b-ea9c847236c9" alt="coworking-male-programmer-writing-program-code">
-</div>
+  
 
 👋 Hi there! 
 
