@@ -78,7 +78,7 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you.
       <a href="https://github.com/Abdinasir03">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
-      <a href="https://yourportfolio.com">
+      <a href="https://abdinasir-portfolio.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" />
       </a>
     </div>
