@@ -1,20 +1,27 @@
-## Abdinasir Mohamed 
-  
-
-👋 Hi there! 
-
-I'm a highly motivated and collaborative individual eager to delve into the exciting realms of IoT embedded systems, embedded software, DevOps, and robotics. My journey has equipped me with a diverse skill set in various programming languages and frameworks, allowing me to adapt to new challenges with ease.
+<div align="center">
 
 
-### About Me :question:
+<!-- CYBERPUNK HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:1A1A2E&height=140&section=header&text=Abdinasir%20Mohamed&fontAlign=50&fontAlignY=40&fontSize=40&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEMS%20ARCHITECT%20%7C%20IoT%20SPECIALIST&descSize=20&descAlign=50&descAlignY=90" />
+</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEER+%7C+SYSTEMS+ARCHITECT;IoT+%26+EMBEDDED+SYSTEMS+SPECIALIST;CYBERNETIC+CODE+CRAFTSMAN;BUILDING+THE+DIGITAL+FUTURE" alt="Typing SVG" />
 
-I am passionate about exploring how technology can be harnessed to create innovative solutions. With a strong foundation in computer science, I have developed a keen interest in:
+</div>
 
-- 🌐 IoT Embedded Systems
-- 💻 Embedded Software Development
-- 🤖 Robotics
-- 🚀 DevOps
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+<div align="center">
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Electric Plug" width="25" height="25" /> 
+</div>
+  <div class="center">
+      <b>🎓 Academic Foundation:</b>
+      <br> <b>MSc</b> IoT & Future Networks, Queen Mary University London
+      <br> <b>BSc</b> Computer Science, Brunel University London
+      <br><br>
+    
 I'm always excited to learn new things and take on challenging projects. I believe in continuous learning and improvement, and I am dedicated to staying up-to-date with the latest trends and technologies in the field.
 
 ### Skills
@@ -60,9 +67,25 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you.
 ---
 
 **Let's Connect:**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdinasir-mohamed-357537254/)
-- 🌐 [Website](https://www.yourwebsite.com)
-- 🐦 [Twitter](https://twitter.com/yourprofile)
+-
+   <div class="links center" style="margin:24px 0;">
+      <a href="https://www.linkedin.com/in/abdinasir-mohamed-357537254/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:Abdinasirm2003@gmail.con">
+        <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <a href="https://github.com/Abdinasir03">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <a href="https://yourportfolio.com">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" />
+      </a>
+    </div>
+
+  </div>
+</body>
+</html>
 
 ---
 
