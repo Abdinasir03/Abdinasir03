@@ -14,15 +14,30 @@
 </div>
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Electric Plug" width="25" height="25" /> 
+<div style="background: linear-gradient(90deg, #16213e 0%, #0a0a0a 100%); border-radius: 12px; padding: 24px 20px; box-shadow: 0 0 18px #00ff41, 0 0 2px #00ff41; color: #00ff41; font-family: 'Orbitron', 'Courier New', monospace; margin: 24px 0;">
+  <h2 style="margin-top:0; color: #00ff41; letter-spacing: 1px;">
+    <span style="font-size:1.4em; vertical-align:middle;">🎓</span>
+    Academic Foundation
+  </h2>
+  <ul style="list-style:none; padding-left:0; font-size:1.15em; line-height:1.7;">
+    <li>
+      <span style="font-weight:bold; color:#00ffe7;">MSc IoT &amp; Future Networks</span>,
+      <span style="color:#fff;">Queen Mary University London</span>
+    </li>
+    <li>
+      <span style="font-weight:bold; color:#00ffe7;">BSc Computer Science</span>,
+      <span style="color:#fff;">Brunel University London</span>
+    </li>
+  </ul>
+  
+  
+  <div style="margin-top: 18px; color: #c3ffbe; font-size:1.08em;">
+   
+   I'm always excited to learn new things and take on challenging projects.<br>
+    I believe in <span style="color:#00ff41; font-weight:bold;">continuous learning and improvement</span>,<br>
+    and I am dedicated to staying up-to-date with the latest trends and technologies in the field.
+  </div>
 </div>
-  <div class="center">
-      <b>🎓 Academic Foundation:</b>
-      <br> <b>MSc</b> IoT & Future Networks, Queen Mary University London
-      <br> <b>BSc</b> Computer Science, Brunel University London
-      <br><br>
-    
-I'm always excited to learn new things and take on challenging projects. I believe in continuous learning and improvement, and I am dedicated to staying up-to-date with the latest trends and technologies in the field.
 
 ### Skills
 
