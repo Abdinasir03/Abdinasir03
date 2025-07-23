@@ -37,6 +37,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdinasir03&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdinasir03&theme=dark&hide_border=true)
+![](https://komarev.com/ghpvc/?username=Abdinasir03&color=brightgreen&style=flat-square)
+
 
 </div>
