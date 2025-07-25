@@ -25,13 +25,6 @@
 
 </div>
 
-### 🎓 Education
-
-**MSc IoT & Future Networks** - Queen Mary University London  
-**BSc Computer Science** - Brunel University London
-
----
-
 
 <div align="center">
 
